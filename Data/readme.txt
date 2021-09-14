@@ -1,1 +1,2 @@
-En este directorio van los datos de prueba de los proyectos
+ Juan Sebastián Castro Garay, 201813107, js.castrog@uniandes.edu.co
+ Daniel Felipe Piñeros Montenegro, 202013147, d.pinerosm@uniandes.edu.co
